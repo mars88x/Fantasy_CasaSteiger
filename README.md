@@ -1,6 +1,6 @@
 # Fantasy_CasaSteiger
 
-Juego de terror paranormal hecho con Java Swing para tarea de DI 2CFGSDAMP. 
+Juego de fantasía oscura (terror sobrenatural) hecho con Java Swing. para tarea de DI 2CFGSDAMP. 
 Llegas a la mansión Hollow veintiocho años después de la desaparición de la familia, siguiendo el reportaje del periodista Elías Marrow. Reúne las pruebas, descubre qué ocurrió y decide cómo termina la historia.
 
 ## Historia
